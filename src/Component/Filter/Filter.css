@@ -10,8 +10,13 @@
   margin-left: 21%;
   margin-top: -9px;
 }
+
+.cat:hover {
+  font-size: 30px;
+  color: #0084ff;
+}
 .m4 {
-  margin-bottom: -29px;
+  margin-bottom: -25px;
   margin-left: 18%;
 }
 
