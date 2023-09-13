@@ -40,6 +40,7 @@ select {
   color: #000;
 }
 #para {
+  font-family: sans-serif;
   font-size: 18px;
   color: silver;
   margin-left: 53%;
